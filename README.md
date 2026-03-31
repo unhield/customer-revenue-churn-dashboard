@@ -1,8 +1,7 @@
 📊 Customer Revenue & Churn Analysis Dashboard (Power BI)
-"This dashboard helps businesses identify revenue-driving customer segments and detect churn risks early to improve retention and profitability."
 
 🔍 Overview
-- This project analyzes customer revenue patterns and churn risk to identify high-value segments, uncover retention issues, and support data-driven decision-making.
+- This dashboard helps businesses identify revenue-driving customer segments and detect churn risks early to improve retention and profitability. This project analyzes customer revenue patterns and churn risk to identify high-value segments, uncover retention issues, and support data-driven decision-making.
 
 📌 Project Type
 - End-to-End Data Analytics Dashboard Project
